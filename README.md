@@ -10,11 +10,6 @@
 
 I'm a backend developer from Russia, not working.
 
-I'm interested in web development and games. Also, I hate JavaScript💀
-
-## 🙏 Visit my website
-[BaggerFast's docs](https://baggerfast.github.io/BaggerFast) - Here I post helpful IT manuals. They can be used as references
-
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
