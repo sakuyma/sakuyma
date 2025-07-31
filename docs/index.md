@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "BaggerFast's"
+  name: "sakuyma"
   text: "Personal page"
   tagline: Enhance your development quality
 features:
