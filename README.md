@@ -10,4 +10,4 @@
 
 I'm a backend developer from Russia, not working.
 
-![sakuyma's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![sakuyma's GitHub stats](https://github-readme-stats.vercel.app/api?usernamesakuyma&show_icons=true&theme=transparent)
