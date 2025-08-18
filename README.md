@@ -47,5 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sakuyma&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" width="435px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuyma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="330px">
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=sakuyma&icon=0&color=0)](https://visitcount.itsvg.in)
