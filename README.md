@@ -4,14 +4,52 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## About me:
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/dev_sakuyma)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/s9kuyma)
+<div align="center">
+  <h1>
+    <img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> Languages and Frameworks
+  </h1>
+</div>
 
-I'm a backend developer from Russia.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Handlebars.js-d46926?logo=handlebarsdotjs&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" height="35px">
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+<div align="center">
+  <h1>
+    <img src="https://i.imgur.com/72GslRm.gif" width="64px"> Tools, Programs and OS
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7?logo=vsc&logoColor=white&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" height="35px">
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0079d5?logo=microsoft-windows-22-logo-svgrepo-com&logoColor=white&style=for-the-badge" height="35px">
+</div>
+
+<div align="center">
+  <h1>
+  <img src="https://i.imgur.com/bV7Z20x.gif" width="64px"> You can also find me on...
+  </h1>
+</div>
+
+<div align="center">
+  <a href="https://web.telegram.org/k/#@bEccILeN" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" height="35px"></a>
+  <a href="https://steamcommunity.com/id/saku1337/" target="_blank"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge" height="35px"></a>
+</div>
+
+<div align="center">
+  <h1>
+    <img src="https://i.pinimg.com/originals/ca/1d/9e/ca1d9e9ee0036ff2d88cdd8d895f5244.gif" width="64px"> Github Stats
+  </h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=arthur-dnts&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" width="435px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-dnts&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="330px">
+</div>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sakuyma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sakuyma&theme=dark&hide_border=false)<br/>
