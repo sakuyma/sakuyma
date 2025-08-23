@@ -46,6 +46,8 @@
 <div align="center">
   <a href="https://web.telegram.org/k/#@bEccILeN" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" height="35px"></a>
   <a href="https://steamcommunity.com/id/saku1337/" target="_blank"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge" height="35px"></a>
+ <a href="" target=https://discordapp.com/users/1182021076495114330/"_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35px"></a>
+</div>
 </div>
 
 <div align="center">
