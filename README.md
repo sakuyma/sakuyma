@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" height="35px">
   <img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" height="35px">
   <img src="https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white">
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0079d5?logo=microsoft-windows-22-logo-svgrepo-com&logoColor=white&style=for-the-badge" height="35px"
+  <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="35px"
 </div>
 
 <div align="center">
