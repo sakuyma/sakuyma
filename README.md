@@ -3,7 +3,7 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
+о
 <div align="center">
   <h1>
     <img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> Languages and Frameworks
