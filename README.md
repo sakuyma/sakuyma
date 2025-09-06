@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm sakuyma </h1>
 
-<p align="center">
+<p align="center">d
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
