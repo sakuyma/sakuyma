@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="35px">
-   <img src="https://camo.githubusercontent.com/41c1cbce7547d3dff3e1206372f5947f01cf3199b8b640f4265998f0f3be2ade/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f487970726c616e642d3745343246343f7374796c653d666f722d7468652d6261646765266c6f676f3d687970726c616e64&logo=hyprland&logoColor=white" height="35px">
+   <img src="https://camo.githubusercontent.com/41c1cbce7547d3dff3e1206372f5947f01cf3199b8b640f4265998f0f3be2ade/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f487970726c616e642d3745343246343f7374796c653d666f722d7468652d6261646765266c6f676f3d687970726c616e64" height="35px">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="35px">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" height="35px">
 </div>
