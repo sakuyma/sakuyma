@@ -57,6 +57,6 @@
   <h1>
     <img src="https://i.pinimg.com/originals/ca/1d/9e/ca1d9e9ee0036ff2d88cdd8d895f5244.gif" width="64px"> Github Stats
   </h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=sakuyma&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" width="435px">
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&fontFamily=&preferLogin=false">    <img  alt="sakuyma's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sakuyma?cardType=github&fontFamily=&preferLogin=false" />  </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuyma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="330px">
 </div>
