@@ -13,7 +13,7 @@ These days I’m focused on:**
 ---
 
 **Some stuff I built:**
-[dotfiles-installer] (https://github.com/sakuyma/dotfiles-installer) - my main project. A Rust tool to set up Arch Linux from scratch: detects GPU, installs drivers, configures the system, clones dotfiles. Available on AUR.
+[dotfiles-installer](https://github.com/sakuyma/dotfiles-installer) - my main project. A Rust tool to set up Arch Linux from scratch: detects GPU, installs drivers, configures the system, clones dotfiles. Available on AUR.
 
 ---
 
