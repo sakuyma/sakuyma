@@ -1,4 +1,4 @@
-### Hi there <img src="https://i.imgur.com/HgCjMI5.gif" width="64px">
+<img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> # Hi there
 I’m **sakuyma**, a Rust developer from Russia. I like writing clean, fast code and automating everything that moves. 
 
 These days I’m focused on:**
