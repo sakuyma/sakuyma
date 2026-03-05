@@ -1,5 +1,7 @@
 <div align="center">
+    <h1>
 <img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> Hi there
+        </h1>
 </div>
 
 I’m **sakuyma**, a Rust developer from Russia. I like writing clean, fast code and automating everything that moves. 
