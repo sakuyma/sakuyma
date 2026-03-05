@@ -1,5 +1,4 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
-
+### Hi there <img src="https://i.imgur.com/HgCjMI5.gif" width="64px">
 I’m **sakuyma**, a Rust developer from Russia. I like writing clean, fast code and automating everything that moves. 
 
 These days I’m focused on:**
