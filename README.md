@@ -1,62 +1,26 @@
-<h1 align="center">👋 Hello! I'm sakuyma </h1>
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-<div align="center">
-  <h1>
-    <img src="https://i.imgur.com/HgCjMI5.gif" width="64px"> Languages and Frameworks
-  </h1>
-</div>
+I’m **sakuyma**, a Rust developer from Russia. I like writing clean, fast code and automating everything that moves. 
 
-<div align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="35px">
- <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35px"> 
- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="35px">
-</div>
-<div align="center">
-   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="35px">
- <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" height="35px">
-</div>
+These days I’m focused on:**
+- Rust (ClI tools)
+- Tmux, neovim, zsh (crafting beatiful dev environment)
 
-<div align="center">
-  <h1>
-    <img src="https://i.imgur.com/72GslRm.gif" width="64px"> Tools, Programs and OS
-  </h1>
-</div>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="35px">
-   <img src="https://camo.githubusercontent.com/41c1cbce7547d3dff3e1206372f5947f01cf3199b8b640f4265998f0f3be2ade/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f487970726c616e642d3745343246343f7374796c653d666f722d7468652d6261646765266c6f676f3d687970726c616e64" height="35px">
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" height="35px">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" height="35px">
+**Some stuff I built:**
+[dotfiles-installer] (https://github.com/sakuyma/dotfiles-installer) - my main project. A Rust tool to set up Arch Linux from scratch: detects GPU, installs drivers, configures the system, clones dotfiles. Available on AUR.
 
-  <img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" height="35px">
-  <img src="https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white">
-  <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="35px"
-</div>
+---
 
-<div align="center">
-  <h1>
-  <img src="https://i.imgur.com/bV7Z20x.gif" width="64px"> You can also find me on...
-  </h1>
-</div>
+**Fun Facts:**
 
-<div align="center">
-  <a href="https://web.telegram.org/k/#@bEccILeN" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" height="35px"></a>
-  <a href="https://steamcommunity.com/id/saku1337/" target="_blank"><img src="https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge" height="35px"></a>
- <a href="https://discordapp.com/users/1182021076495114330/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35px"></a>
-</div>
-</div>
+* I don’t drink coffee py tea
+* Solo leveling is my favorite anime
+* **Hobbies:** guitar & ricing
 
 <div align="center">
   <h1>
     <img src="https://i.pinimg.com/originals/ca/1d/9e/ca1d9e9ee0036ff2d88cdd8d895f5244.gif" width="64px"> Github Stats
   </h1>
-         <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&fontFamily=&preferLogin=false&Text=CDD6F4&Ring=CDD6F4&Background=1E1E2E">    <img  alt="sakuyma's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sakuyma?cardType=github&fontFamily=&preferLogin=false&Text=CDD6F4&Ring=CDD6F4&Background=1E1E2E" />  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuyma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="330px">
 </div>
