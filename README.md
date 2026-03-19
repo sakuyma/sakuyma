@@ -19,7 +19,7 @@ These days I’m focused on:**
 
 **Fun Facts:**
 
-* I don’t drink coffee py tea
+* I don’t drink coffee only tea
 * Solo leveling is my favorite anime
 * **Hobbies:** guitar & ricing
 
