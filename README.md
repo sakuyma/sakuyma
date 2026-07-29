@@ -4,7 +4,7 @@
         </h1>
 </div>
 
-I’m **sakuyma**, a Rust developer from Russia. I like writing clean, fast code and automating everything that moves. 
+I’m **sakuyma**, a Rust developer from Russia. I like writing fast code and automating everything that moves. 
 
 These days I’m focused on:**
 - Rust (ClI tools)
@@ -13,7 +13,8 @@ These days I’m focused on:**
 ---
 
 **Some stuff I built:**
-[dotfiles-installer](https://github.com/sakuyma/dotfiles-installer) - my main project. A Rust tool to set up Arch Linux from scratch: detects GPU, installs drivers, configures the system, clones dotfiles. Available on AUR.
+[dotfiles-installer](https://github.com/sakuyma/dotfiles-installer) - was main project. A Rust tool to set up Arch Linux from scratch: detects GPU, installs drivers, configures the system, clones dotfiles. Available on AUR.I didn't do it good enough even for myself. 
+[lpkg](https://github.com/sakuyma/lpkg) - Little Package manager. A minimalistic package manager written in pure c. Not avalilable anywhere yet.
 
 ---
 
