@@ -14,6 +14,7 @@ These days I’m focused on:**
 
 **Some stuff I built:**
 [dotfiles-installer](https://github.com/sakuyma/dotfiles-installer) - was main project. A Rust tool to set up Arch Linux from scratch: detects GPU, installs drivers, configures the system, clones dotfiles. Available on AUR.I didn't do it good enough even for myself. 
+
 [lpkg](https://github.com/sakuyma/lpkg) - Little Package manager. A minimalistic package manager written in pure c. Not avalilable anywhere yet.
 
 ---
